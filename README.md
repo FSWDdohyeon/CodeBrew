@@ -17,9 +17,9 @@
 
 ## 프로젝트 소개
 ### 프로젝트 이름소개
-<img src="https://github.com/user-attachments/assets/3836f2b4-4ccf-441c-b2da-7b785585cb40" width="300px" height="200px">
-</br>
-**코드브루란?**  
+<img src="https://github.com/user-attachments/assets/3836f2b4-4ccf-441c-b2da-7b785585cb40" width="300px" height="200px"></br>
+
+**코드브루란?**
 예약, 상품판매, 게시판 등의 서비스를 제공하는 커피숍의 홈페이지.
 
 -----------------------------------------------------------------------------------------------------
