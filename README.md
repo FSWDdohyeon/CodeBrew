@@ -1,4 +1,4 @@
-프로젝트 스토리보드
+프로젝트 스토리보드 (ストーリーボード)
 
 [스토리보드.pdf](https://github.com/user-attachments/files/16668920/default.pdf)
 
@@ -10,7 +10,7 @@
 
 
 
-erd 설계도
+erd 설계도(erd設計図)
 
 ![ERD 설계도](https://github.com/user-attachments/assets/5aa7c293-17db-4c58-a46f-f9f5699bb3ae)
 
@@ -19,7 +19,7 @@ erd 설계도
 
 
 
-개발환경
+개발환경(開発ツール)
 
 ![개발환경](https://github.com/user-attachments/assets/7ae585f5-8cab-4925-b415-063bdf38793e)
 
@@ -31,7 +31,7 @@ erd 설계도
 
 
 
-프로젝트 흐름도
+프로젝트 흐름도(プロジェクト設計図)
 
 [프로젝트 흐름도.csv](https://github.com/user-attachments/files/16671399/default.csv)
 
@@ -43,7 +43,7 @@ erd 설계도
 
 
 
-시연영상
+시연영상(テスト映像)
 
 https://github.com/user-attachments/assets/b9b73985-967e-49e8-8efe-0ba82a7cad36
 
@@ -55,10 +55,10 @@ https://github.com/user-attachments/assets/b9b73985-967e-49e8-8efe-0ba82a7cad36
 
 
 
-예약기능 설명서
+예약기능 설명서(予約機能説明書)
 
 https://www.notion.so/750cae3810f344519ecee4f7d71e3eee?pvs=12
 
-결제기능 설명서
+결제기능 설명서(決済機能説明書)
 
 https://www.notion.so/32f9ca588b314135a23dc93f77f99d20
