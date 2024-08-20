@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/b9b73985-967e-49e8-8efe-0ba82a7cad36
 <img src = https://github.com/user-attachments/assets/b2945b38-41d9-46fa-8579-d24398b3cd01 width=45% height=300px>
 </br>
 ⓒ 결제</br>
-<img src = https://github.com/user-attachments/assets/e6a3bfcf-18aa-42e1-97d2-c7050ef71ce2 width=90% height=600px>
+<img src = https://github.com/user-attachments/assets/e6a3bfcf-18aa-42e1-97d2-c7050ef71ce2 width=45% height=300px>
 </br>
 ⓓ회원</br>
 <img src = https://github.com/user-attachments/assets/94126a74-f0f7-49e1-937e-da69be4e4304 width=45% height=300px>
