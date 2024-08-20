@@ -58,21 +58,26 @@ https://github.com/user-attachments/assets/b9b73985-967e-49e8-8efe-0ba82a7cad36
 ------------------------------------------------------------------------------------------------------
 **3. 개발스택(開発スタック)**
 </br>
-개발환경(開発ツール)
+</br>
+ⓐ개발환경(開発ツール)
+</br>
 </br>
 ![개발환경](https://github.com/user-attachments/assets/7ae585f5-8cab-4925-b415-063bdf38793e)
 </br>
-erd 설계도(erd設計図)
+</br>
+ⓑerd 설계도(erd設計図)
+</br>
 </br>
 ![ERD 설계도](https://github.com/user-attachments/assets/5aa7c293-17db-4c58-a46f-f9f5699bb3ae)
 </br>
+</br>
+ⓒ 기능 설명
 
-
-예약기능 설명서(予約機能説明書)
+1. 예약기능 설명서(予約機能説明書)
 
 https://www.notion.so/750cae3810f344519ecee4f7d71e3eee?pvs=12
 
-결제기능 설명서(決済機能説明書)
+2. 결제기능 설명서(決済機能説明書)
 
 https://www.notion.so/32f9ca588b314135a23dc93f77f99d20
 
