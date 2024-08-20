@@ -37,11 +37,11 @@
 <img src="https://github.com/user-attachments/assets/1f2d1874-a044-4159-9f3e-bd2948b4d774" width="45%" height="300px" margin="10px">
 
 **ⓑ 예약**  
-<img src="https://github.com/user-attachments/assets/bfa93ebe-0cf4-4ae0-9fa6-b5465b9e6969" width="45%" height="300px">
-<img src="https://github.com/user-attachments/assets/b2945b38-41d9-46fa-8579-d24398b3cd01" width="45%" height="300px">
+<img src="https://github.com/user-attachments/assets/bfa93ebe-0cf4-4ae0-9fa6-b5465b9e6969" width="45%" height="300px"  margin="10px">
+<img src="https://github.com/user-attachments/assets/b2945b38-41d9-46fa-8579-d24398b3cd01" width="45%" height="300px"  margin="10px">
 
 **ⓒ 결제**  
-<img src="https://github.com/user-attachments/assets/e6a3bfcf-18aa-42e1-97d2-c7050ef71ce2" width="45%" height="300px">
+<img src="https://github.com/user-attachments/assets/e6a3bfcf-18aa-42e1-97d2-c7050ef71ce2" width="45%" height="300px"  margin="10px">
 
 **ⓓ 회원**  
 <img src="https://github.com/user-attachments/assets/94126a74-f0f7-49e1-937e-da69be4e4304" width="45%" height="300px">
