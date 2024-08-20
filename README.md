@@ -30,29 +30,32 @@ https://github.com/user-attachments/assets/b9b73985-967e-49e8-8efe-0ba82a7cad36
 ⓐ 자유게시판</br>
 <img src = https://github.com/user-attachments/assets/38746db7-7a66-492e-bffb-6eb3279d1b00 width=45% height=300px>
 <img src = https://github.com/user-attachments/assets/1f2d1874-a044-4159-9f3e-bd2948b4d774 width=45% height=300px>
-
+</br>
 ⓑ 예약</br>
 <img src = https://github.com/user-attachments/assets/bfa93ebe-0cf4-4ae0-9fa6-b5465b9e6969 width=45% height=300px>
 <img src = https://github.com/user-attachments/assets/b2945b38-41d9-46fa-8579-d24398b3cd01 width=45% height=300px>
-
+</br>
 ⓒ 결제</br>
 <img src = https://github.com/user-attachments/assets/e6a3bfcf-18aa-42e1-97d2-c7050ef71ce2 width=90% height=600px>
-
+</br>
 ⓓ회원</br>
 <img src = https://github.com/user-attachments/assets/94126a74-f0f7-49e1-937e-da69be4e4304 width=45% height=300px>
 <img src = https://github.com/user-attachments/assets/881208c1-0dc8-4e1d-819f-6dcab721d3cb width=45% height=300px>
 <img src = https://github.com/user-attachments/assets/94c89910-ac99-4464-bbe4-6ed018ce5308 width=45% height=300px>
 <img src = https://github.com/user-attachments/assets/ad68dc70-1c7e-4577-9906-44cb2d228647 width=45% height=300px>
-
-ⓔ</br>
-
-ⓕ</br>
-ⓖ</br>
-ⓗ</br>
-
-메인페이지
+</br>
+ⓔ기타</br>
 <img src = https://github.com/user-attachments/assets/e1302bd5-f551-4624-8fb8-94a004000141 width=45% height=300px>
 <img src = https://github.com/user-attachments/assets/a94ec272-2fd8-4566-ade4-048f9b0e99b5 width=45% height=300px>
+<img src = https://github.com/user-attachments/assets/b7bf8f8e-f557-47c0-848a-14136030e974 width=45% height=300px>
+<img src = https://github.com/user-attachments/assets/b7bf8f8e-f557-47c0-848a-14136030e974 width=45% height=300px>
+<img src = https://github.com/user-attachments/assets/814c3132-2d9f-4549-bd34-bf13113ca31e width=45% height=300px>
+<img src = https://github.com/user-attachments/assets/49a45f2d-de07-4d9c-8ce5-67a9981a69c3 width=45% height=300px>
+<img src = https://github.com/user-attachments/assets/e86c4e47-b764-42db-a03d-74ed3170933e width=45% height=300px>
+</br>
+
+
+
 
 
 
