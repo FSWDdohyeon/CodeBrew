@@ -27,10 +27,8 @@ https://github.com/user-attachments/assets/b9b73985-967e-49e8-8efe-0ba82a7cad36
 ------------------------------------------------------------------------------------------------------
 **3. 스토리보드(ストーリーボード)**
 
-![image](https://github.com/user-attachments/assets/e1302bd5-f551-4624-8fb8-94a004000141)![image](https://github.com/user-attachments/assets/a94ec272-2fd8-4566-ade4-048f9b0e99b5)
-
-<img src = https://github.com/user-attachments/assets/e1302bd5-f551-4624-8fb8-94a004000141 width=45% height=600px>
-<img src = https://github.com/user-attachments/assets/a94ec272-2fd8-4566-ade4-048f9b0e99b5 width=45% height=600px>
+<img src = https://github.com/user-attachments/assets/e1302bd5-f551-4624-8fb8-94a004000141 width=45% height=300px>
+<img src = https://github.com/user-attachments/assets/a94ec272-2fd8-4566-ade4-048f9b0e99b5 width=45% height=300px>
 
 
 
