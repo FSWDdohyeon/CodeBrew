@@ -33,8 +33,8 @@
 ## 스토리보드
 
 **ⓐ 자유게시판**  
-<img src="https://github.com/user-attachments/assets/38746db7-7a66-492e-bffb-6eb3279d1b00" width="45%" height="300px">
-<img src="https://github.com/user-attachments/assets/1f2d1874-a044-4159-9f3e-bd2948b4d774" width="45%" height="300px">
+<img src="https://github.com/user-attachments/assets/38746db7-7a66-492e-bffb-6eb3279d1b00" width="45%" height="300px" margin="10px">
+<img src="https://github.com/user-attachments/assets/1f2d1874-a044-4159-9f3e-bd2948b4d774" width="45%" height="300px" margin="10px">
 
 **ⓑ 예약**  
 <img src="https://github.com/user-attachments/assets/bfa93ebe-0cf4-4ae0-9fa6-b5465b9e6969" width="45%" height="300px">
