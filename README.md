@@ -1,4 +1,5 @@
 ##목차##
+\n
 ① 프로젝트 설명
   1. 프로젝트 소개
   2. 시연영상
@@ -8,8 +9,8 @@
 
 ----------------------------------------------------------------------------------------------------
 **1. 프로젝트 소개(プロジェクト紹介)**
-![logo-photoaidcom-invert](https://github.com/user-attachments/assets/3836f2b4-4ccf-441c-b2da-7b785585cb40)
 <img src = https://github.com/user-attachments/assets/3836f2b4-4ccf-441c-b2da-7b785585cb40 width=300px height=200px>
+\n
 코드브루란 ? 
 예약, 상품판매, 게시판등의 서비스를 제공하는 커피숍의 홈페이지.
 
