@@ -70,13 +70,13 @@
 
 ### 기능설명서
 
-<p>1. 예약기능 설명(← 주로 맡은 부분)</p>  </br>
+<p><span width="100">1. 예약기능 설명</span>(← 주로 맡은 부분)</p>  </br>
 [예약기능 설명서 링크](https://www.notion.so/750cae3810f344519ecee4f7d71e3eee?pvs=12)  
 
-<p>2. 결제기능 설명(← 주로 맡은 부분)</p> </br>
+<p><span width="100">2. 결제기능 설명</span>(← 주로 맡은 부분)</p> </br>
 [결제기능 설명서 링크](https://www.notion.so/32f9ca588b314135a23dc93f77f99d20)   
 
-<p>3. 자유게시판 설명(← 일부 맡은 부분)</p> </br>
+<p><span width="100">3. 자유게시판 설명</span>(← 일부 맡은 부분)</p> </br>
 [자유게시판 설명서 링크](https://adaptive-spike-72c.notion.site/0caf08619c7d4b53b00493a416dd33c3?pvs=4)    
 
 <p<span width="100">4. 회원관련 설명</span>(← 일부 맡은 부분)</p> </br>
