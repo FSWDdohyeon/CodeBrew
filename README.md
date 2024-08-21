@@ -26,7 +26,7 @@
 
 ### 시연영상
 
-[시연영상 링크](https://github.com/user-attachments/assets/b9b73985-967e-49e8-8efe-0ba82a7cad36)
+[시연영상 링크](https://github.com/user-attachments/assets/dcb0f943-c146-4321-97ad-a90900f97d44)
 
 ------------------------------------------------------------------------------------------------------
 
