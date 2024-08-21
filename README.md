@@ -71,10 +71,10 @@
 ### 기능설명서
 
 1. 예약기능 (← 주로 맡은 부분)</br>
-[예약기능 설명서 링크](https://www.notion.so/750cae3810f344519ecee4f7d71e3eee?pvs=12)  
+[예약기능 설명서 링크](https://adaptive-spike-72c.notion.site/750cae3810f344519ecee4f7d71e3eee?pvs=4)  
 
 2. 결제기능 (← 주로 맡은 부분)</br>
-[결제기능 설명서 링크](https://www.notion.so/32f9ca588b314135a23dc93f77f99d20)   
+[결제기능 설명서 링크](https://adaptive-spike-72c.notion.site/32f9ca588b314135a23dc93f77f99d20?pvs=4)   
 
 3. 자유게시판 (← 일부 맡은 부분)</br>
 [자유게시판 설명서 링크](https://adaptive-spike-72c.notion.site/0caf08619c7d4b53b00493a416dd33c3?pvs=4)    
