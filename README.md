@@ -77,7 +77,7 @@
 [결제기능 설명서 링크](https://www.notion.so/32f9ca588b314135a23dc93f77f99d20)
 
 3. 자유게시판 설명서  
-[자유게시판 설명서 링크](https://www.notion.so/0caf08619c7d4b53b00493a416dd33c3)
+[자유게시판 설명서 링크](https://adaptive-spike-72c.notion.site/0caf08619c7d4b53b00493a416dd33c3?pvs=4)
 
 3. 회원관련 설명서  
 [회원관련 설명서 링크](https://아직링크없음)
